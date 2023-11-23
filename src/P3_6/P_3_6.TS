@@ -1,3 +1,13 @@
+/* Resumo:
+O Bubble Sort é mais simples, fácil de implementar, 
+mas menos eficiente para grandes conjuntos de dados.
+O Merge Sort é mais complexo, usa uma estratégia de 
+dividir para conquistar e é mais eficiente para grandes conjuntos de dados.
+Ambos são algoritmos estáveis, o que significa que a ordem relativa dos elementos iguais é mantida.
+Em geral, o Merge Sort é preferido quando a eficiência é uma consideração crucial, enquanto o 
+Bubble Sort pode ser utilizado em situações mais simples ou para conjuntos de dados pequenos.*/
+
+
 import * as fs from 'fs';
 
 // Função Merge Sort
